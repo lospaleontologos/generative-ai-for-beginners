@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: generative-ai
 channels:
  - defaults
@@ -5,3 +6,15 @@ dependencies:
 - python=3.11.4
 - openai
 - python-dotenv
+=======
+name: <environment-name>
+channels:
+ - defaults
+dependencies:
+- python=3.12
+- openai
+- python-dotenv
+- pip
+- pip:
+  - azure-ai-inference
+>>>>>>> 72567820ac066161f141652a43b1940e09af7756

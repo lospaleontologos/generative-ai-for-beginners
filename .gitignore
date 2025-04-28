@@ -165,4 +165,8 @@ node_modules/
 
 # downloaded stuff for 08-building-search-applications
 08-building-search-applications/scripts/transcripts_the_ai_show/
+<<<<<<< HEAD
 .qodo
+=======
+.tool-versions
+>>>>>>> b88b09e22d023505eb4b289b4b85fe9f42c33293
